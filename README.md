@@ -1,4 +1,4 @@
-# Sci-FiDemo
+# Sci-Fi Demo
 
 This is a basic 3D project, to show some concepts of 3D gaming
 Your objective is to claim the coin on the machine, buy a weapon and destroy a crate.
